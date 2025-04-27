@@ -11,7 +11,7 @@
 
 ## Products
 
-### [ChargeLink](https://lumesoft.net/chargelink/)
+### [ChargeLink](https://lumesoft.net/hardware/chargelink/)
 **An open source method of flashing devices via charging pins.**  
 Perfect for developers, device manufacturers, and embedded systems.
 
@@ -19,7 +19,7 @@ Perfect for developers, device manufacturers, and embedded systems.
 - No exposed debug pins needed
 - Streamlined device recovery and testing
 
-### [LumeLink](https://lumesoft.net/lumelink/)
+### [LumeLink](https://lumesoft.net/hardware/lumelink/)
 **Easy USB-C UART debugging with no hardware engineering knowledge required.**  
 Capture boot logs and debug information safely from SBU1/SBU2 pins.
 
